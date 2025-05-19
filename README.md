@@ -9,5 +9,7 @@ The game is intended for brain-storming purposes, where players need to calculat
 I hope people trying out this game go through a nerve-wracking time figuring out their winning strategies !
 
 Gameplay video links - 
+
 1st recording - https://drive.google.com/file/d/1_XmaWcymVberbIOmqWim-uI5ZeBp2_Yl/view?usp=sharing
+
 2nd recording - https://drive.google.com/file/d/18X29DICx3WQXuXm1Kz_PFU04m_Wu2J2F/view?usp=sharing
